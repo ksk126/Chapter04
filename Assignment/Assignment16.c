@@ -9,16 +9,16 @@ RGB 색상을 출력할 때는 바이트 단위로 값을 알아보기 쉽도록 16진수로 출력한다.
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-void assignment16();
+void assignment0416();
 int printColor(int r, int g, int b);
 
 int main()
 {
-	assignment16();
+	assignment0416();
 	return 0;
 }
 
-void assignment16()
+void assignment0416()
 {
 	int r = 0, g = 0, b = 0;
 	printf("red? ");

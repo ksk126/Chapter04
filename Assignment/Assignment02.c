@@ -8,16 +8,16 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-void assignment02();
+void assignment0402();
 double temperature(double x);
 
 int main()
 {
-	assignment02();
+	assignment0402();
 	return 0;
 }
 
-void assignment02()
+void assignment0402()
 {
 	double fahrenheit = 0;
 

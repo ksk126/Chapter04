@@ -8,15 +8,15 @@
 
 #include <stdio.h>
 
-void assignment17();
+void assignment0417();
 
 int main()
 {
-	assignment17();
+	assignment0417();
 	return 0;
 }
 
-void assignment17()
+void assignment0417()
 {
 	int bit7 = 0x80;
 	int bit15 = 0x8000;
@@ -28,5 +28,5 @@ void assignment17()
 	printf("23번 비트만 1인 값: %08x %d\n", bit23, bit23);
 	printf("31번 비트만 1인 값: %08x %d\n", bit31, bit31);
 
-	return 0;
+	return;
 }

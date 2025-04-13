@@ -8,16 +8,16 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-void assignment09();
+void assignment0409();
 int computeTime(int x);
 
 int main()
 {
-	assignment09();
+	assignment0409();
 	return 0;
 }
 
-void assignment09()
+void assignment0409()
 {
 	int second = 0;
 

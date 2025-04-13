@@ -14,11 +14,11 @@ double calculateVolume(double x);
 
 int main()
 {
-	assignment03();
+	assignment0403();
 	return 0;
 }
 
-void assignment03()
+void assignment0403()
 {
 	double radius = 0;
 
